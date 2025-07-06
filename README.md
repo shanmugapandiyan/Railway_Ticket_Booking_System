@@ -75,7 +75,7 @@ java RAIWAY_TICKET_BOOKING_SYSTEM.ticketbooking
 ## 🙋 Author
 
 **Shanmugapandiyan A**  
-GitHub: [@your-username](https://github.com/shanmugapandiyan)
+GitHub: [shanmugapandiyan](https://github.com/shanmugapandiyan)
 
 ---
 
